@@ -1,0 +1,7 @@
+version: '2'
+services:
+
+  node:
+    image: jguillermo/angular-cli:node
+    build:
+      context: ./build/node/
