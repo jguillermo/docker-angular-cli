@@ -1,10 +1,12 @@
-docker angular cli
-==================
-
-./scripts/tasks.build.sh node
+# Docker angular cli
 
 
-./docker/scripts/tasks.install.sh
+### Generate skeleton application
+```
+make install
+```
 
-
-./docker/scripts/tasks.console.sh ls
+### Start server
+```
+make start
+```

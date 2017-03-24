@@ -1,0 +1,8 @@
+#version: '2'
+#services:
+#
+#  node:
+#      image: jguillermo/docker-angular-cli:latest
+#      build:
+#        context: ./docker/node/
+#

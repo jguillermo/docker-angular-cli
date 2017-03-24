@@ -1,9 +1,0 @@
-version: '2'
-services:
-  node:
-    image: jguillermo/angular-cli:node
-    volumes:
-      - ./..:/usr/src
-#    command: npm start
-    ports:
-      - 4200:4200
